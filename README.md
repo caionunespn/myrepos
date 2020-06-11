@@ -6,7 +6,7 @@ This project was based on [Rocketseat's](https://github.com/Rocketseat) [Redux/R
 
 ## :information_source: How To Run
 
-###Installing
+### Installing
 
 ```bash
 # Clone the repository
